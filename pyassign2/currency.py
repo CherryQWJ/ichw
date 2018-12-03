@@ -45,3 +45,5 @@ def exchange(currency_from, currency_to, amount_from):
 print(exchange(currency_from, currency_to, amount_from))
 def text_exchange():
     assert exchange(USD,EUR,2.5) == 2.1689225    
+    
+    #以上代码是我和陈舒仪交流的成果
